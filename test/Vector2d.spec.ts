@@ -2,7 +2,7 @@ import { Vector2d } from "../src/Vector2d";
 
 test("should construct a vector", () => {
     let result = new Vector2d(1,2);
-    expect(result.toString()).toBe("Vector2d(1, 2)");
+    expect(result.toString()).toBe("[1 2]");
 });
 
 test("should add the two vectors", () => {

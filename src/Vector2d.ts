@@ -76,7 +76,7 @@ export class Vector2d {
     }
 
     public toString(): string {
-        return `Vector2d(${this.x}, ${this.y})`;
+        return `[${this.x} ${this.y}]`;
     }
     
 }

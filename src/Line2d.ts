@@ -1,6 +1,7 @@
 import { Vector2d } from './Vector2d';
 
 export class Line2d {
+    
 
     private point: Vector2d;
     private director: Vector2d;
@@ -47,5 +48,13 @@ export class Line2d {
      */
     public isParallel( other: Line2d ): boolean {
         return this.director.isComposed(other.director);
+    }
+    
+    /**
+     * Returns the line in its vectorial form
+     * @returns the line in its vectorial form
+     */
+    public vectorial(): string {
+        return (this.point.toString() + " + k" + this.director.toString());
     }
 }

@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "visualstudioexptteam.vscodeintellicode",
+        "hbenl.vscode-test-explorer",
+        "ms-vscode.test-adapter-converter",
+        "tabnine.tabnine-vscode",
+        "eg2.vscode-npm-script",
+        "softwaredotcom.music-time",
+        "pkief.material-icon-theme",
+        "formulahendry.code-runner",
+        "steoates.autoimport",
+        "softwaredotcom.swdc-vscode",
+        "eamodio.gitlens",
+        "orta.vscode-jest",
+        "coco-platform.jest-snippets"
+    ]
+}
