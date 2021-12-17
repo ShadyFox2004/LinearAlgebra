@@ -1,0 +1,25 @@
+{
+  "name": "linearalgebra",
+  "version": "1.0.0",
+  "description": "Time to study",
+  "main": "index.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadyFox2004/LinearAlgebra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShadyFox2004/LinearAlgebra/issues"
+  },
+  "homepage": "https://github.com/ShadyFox2004/LinearAlgebra#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
